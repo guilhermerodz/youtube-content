@@ -6,6 +6,10 @@ class TestController {
 
     return res.send(user.email);
   }
+
+  async testAdmin(req, res) {
+    return res.send(req.user.email);
+  }
 }
 
 export default new TestController();

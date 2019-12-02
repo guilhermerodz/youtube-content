@@ -12,6 +12,11 @@ const UserSchema = new Schema({
     required: true,
   },
   passwordHash: String,
+  roles: {
+    type: [String],
+    default: [],
+    required: true,
+  },
 });
 
 UserSchema.pre('save', async function() {
