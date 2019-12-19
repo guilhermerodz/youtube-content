@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Effect from './examples/Effect';
+import Ref from './examples/Ref';
 
 function App() {
-  return <Effect />;
+  return <Ref />;
 }
 
 export default App;
