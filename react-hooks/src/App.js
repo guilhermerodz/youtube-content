@@ -1,9 +1,9 @@
 import React from 'react';
 
-import State from './examples/State';
+import Effect from './examples/Effect';
 
 function App() {
-  return <State />;
+  return <Effect />;
 }
 
 export default App;
