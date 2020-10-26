@@ -1,16 +1,5 @@
-<h1>
-  <a href="https://youtube.com/guilhermerodz">
-    Youtube Content - Guilherme Rodz
-  </a>
-</h1>
+# 🙌 The code of my YouTube lessons are here
 
-<p align="left">
-  <a href="https://twitter.com/intent/user?screen_name=guilherme_rodz" target="_blank">
-    <img
-      src="https://img.shields.io/twitter/follow/guilherme_rodz?label=Follow%20Guilherme%20Rodz&style=social"
-      alt="Follow @guilherme_rodz"
-    />
-  </a>
-</p>
+[Check out my videos!](https://youtube.com/guilhermerodz)
 
-Contains all of my YouTube lessons code.
+[![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/guilherme_rodz)
